@@ -1,0 +1,1 @@
+console.log("Hello Word Node") // Iportante para aprender direito a linguagem

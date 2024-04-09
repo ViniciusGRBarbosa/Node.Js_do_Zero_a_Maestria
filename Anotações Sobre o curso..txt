@@ -1,0 +1,7 @@
+Aprendido Até agora: 
+Node.js
+
+O que é API? Requisição e respostas
+
+Node.js é uma runtime de JavaScript que permiti criar softwares para o back utilizando JS.
+NPM é um gerenciador de pacotes do Node.js, permitindo baixar bibliotecas de terceiros.
